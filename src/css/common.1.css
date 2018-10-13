@@ -1,0 +1,124 @@
+body{font-size: 16px}
+body,dd,div,dl,dt,html,li,p,table,td,th,ul{margin:0;padding:0;}
+body{background-color:#ffffff;color:#333333;font-family:"microsoft yahei","Helvetica Neue",Helvetica,Arial,sans-serif;line-height:1.42857143;}
+ul{list-style-type:none;}
+input[disabled],select[disabled]{color:#3e3232;}
+table{width:100%;}
+input{padding:0;outline: none;}
+select{outline: none;}
+input[type=radio],input[type=checkbox]{margin:-2px 0 0 1px;vertical-align:middle;}
+/* 浮动 */
+.fl{float: left;}
+.fr{float: right;}
+/* 自动外边距 */
+.mgauto{margin: 0px auto;}
+/* 清除浮动代码 */
+.clear:after{display:block;clear:both;content:"";visibility:hidden;height:0}
+.clear{zoom:1}
+/* 定位 */
+.re{position: relative;}
+.pa{position: absolute;}
+.pf{position: fixed;}
+/* 背景颜色 */
+.bgeee{background: #eeeeee;}
+.bgfff{background: #ffffff;}
+.bgaaa{background: #aaaaaa;}
+.bg333{background: #333333;}
+.bg666{background: #666666;}
+.bg999{background: #999999;}
+/* 字体大小 */
+.fs10{font-size: 10px;}
+.fs11{font-size: 11px;}
+.fs12{font-size: 12px;}
+.fs13{font-size: 13px;}
+.fs14{font-size: 14px;}
+.fs15{font-size: 15px;}
+.fs16{font-size: 16px;}
+.fs17{font-size: 17px;}
+.fs18{font-size: 18px;}
+.fs19{font-size: 19px;}
+.fs20{font-size: 20px;}
+/* 字体位置 */
+.tal{text-align: left;}
+.tar{text-align: right;}
+.tac{text-align: center;}
+/* 内边距顶部距离 */
+.p0{padding: 0px;}
+.p05{padding: 5px;}
+.p10{padding: 10px;}
+.p15{padding: 15px;}
+.p20{padding: 20px;}
+.p25{padding: 25px;}
+.p30{padding: 30px;}
+/* 内边距顶部距离 */
+.pt0{padding-top: 0px;}
+.pt05{padding-top: 5px;}
+.pt10{padding-top: 10px;}
+.pt15{padding-top: 15px;}
+.pt20{padding-top: 20px;}
+.pt25{padding-top: 25px;}
+.pt30{padding-top: 30px;}
+/* 内边距底部距离 */
+.pb0{padding-bottom: 0px;}
+.pb05{padding-bottom: 5px;}
+.pb10{padding-bottom: 10px;}
+.pb15{padding-bottom: 15px;}
+.pb20{padding-bottom: 20px;}
+.pb25{padding-bottom: 25px;}
+.pb30{padding-bottom: 30px;}
+/* 内边距左边距离 */
+.pl0{padding-left: 0px;}
+.pl05{padding-left: 5px;}
+.pl10{padding-left: 10px;}
+.pl15{padding-left: 15px;}
+.pl20{padding-left: 20px;}
+.pl25{padding-left: 25px;}
+.pl30{padding-left: 30px;}
+/* 内边距右边距离 */
+.pr0{padding-right: 0px;}
+.pr05{padding-right: 5px;}
+.pr10{padding-right: 10px;}
+.pr15{padding-right: 15px;}
+.pr20{padding-right: 20px;}
+.pr25{padding-right: 25px;}
+.pr30{padding-right: 30px;}
+/* 外边距距离 */
+.m0{margin:0px;}
+.m05{margin:5px;}
+.m10{margin:10px;}
+.m15{margin:15px;}
+.m20{margin:20px;}
+.m25{margin:25px;}
+.m30{margin:30px;}
+/* 外边距顶部距离 */
+.mt0{margin-top:0px;}
+.mt05{margin-top:5px;}
+.mt10{margin-top:10px;}
+.mt15{margin-top:15px;}
+.mt20{margin-top:20px;}
+.mt25{margin-top:25px;}
+.mt30{margin-top:30px;}
+/* 外边距底部距离 */
+.mb0{margin-bottom:0px;}
+.mb05{margin-bottom:5px;}
+.mb10{margin-bottom:10px;}
+.mb15{margin-bottom:15px;}
+.mb20{margin-bottom:20px;}
+.mb25{margin-bottom:25px;}
+.mb30{margin-bottom:30px;}
+/* 外边距左边高距离 */
+.ml0{margin-left:0px;}
+.ml05{margin-left:5px;}
+.ml10{margin-left:10px;}
+.ml15{margin-left:15px;}
+.ml20{margin-left:20px;}
+.ml25{margin-left:25px;}
+.ml30{margin-left:30px;}
+/* 外边距左边距离 */
+.ml0{margin-left:0px;}
+.ml05{margin-left:5px;}
+.ml10{margin-left:10px;}
+.ml15{margin-left:15px;}
+.ml20{margin-left:20px;}
+.ml25{margin-left:25px;}
+.ml30{margin-left:30px;}
