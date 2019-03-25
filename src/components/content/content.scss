@@ -1,0 +1,37 @@
+.demo-container{
+    position:fixed;
+    z-index: 1000;
+    left:0;
+    right:0;
+    text-align: center;
+    background:#ff852a;
+    color:white;
+    height:40px;
+    .grid-cell{
+        width:100%;
+        line-height: 40px;
+        position: relative;
+        font-size: 20px;
+    }
+}
+input{
+    height:30px;
+    width:100%;
+    background:#ff4e22;
+    text-align:center;
+    border:0;
+    border-radius:5px;
+    color: white;
+    padding: 0.2rem;
+    font-size: 16px!important;
+}
+span{
+    position: absolute;
+    z-index: 1001;
+    top: 6px;
+    left:6px;
+    img{
+        width:20px;
+        height:20px;
+    }
+}
